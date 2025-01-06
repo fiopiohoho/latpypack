@@ -51,7 +51,7 @@ plugins:
           allow_errors: false
           ignore: ["conf.py"]
           execute_ignore: ["*ignore.ipynb"]
-          
+
 markdown_extensions:
     - admonition
     - abbr
@@ -80,7 +80,9 @@ nav:
     - Changelog: changelog.md
     - Report Issues: https://github.com/fiopiohoho/latpypack/issues
     - Examples:
-        - examples/intro.ipynb
+          - examples/intro.ipynb
     - API Reference:
           - latpypack module: latpypack.md
           - common module: common.md
+    - LAB:
+          - examples/lab4.ipynb
