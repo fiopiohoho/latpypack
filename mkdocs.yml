@@ -81,9 +81,11 @@ nav:
     - Report Issues: https://github.com/fiopiohoho/latpypack/issues
     - Examples:
           - examples/intro.ipynb
+          - examples/csv.ipynb
     - API Reference:
           - latpypack module: latpypack.md
           - common module: common.md
+          - utils module: utils.md
     - LAB:
           - examples/lab4.ipynb
           - examples/lab5.ipynb
